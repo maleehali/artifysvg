@@ -69,5 +69,8 @@ Enter the shape color (keyword or hex): Green or #00ff00
 
 [Click here to watch the walkthrough video](https://drive.google.com/file/d/1lq1Q2Nm_dvwLSof9bLmT3fsaAOFhcFv5/view?usp=sharing)
 
+## Link to GitHub Repository
+
+https://github.com/maleehali/artifysvg
 
 
